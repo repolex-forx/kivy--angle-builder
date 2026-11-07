@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kivy/angle-builder/commit/2e0cffee9de5b1f19f7fb07264718331db387d83",
       "git:hexsha": "2e0cffee9de5b1f19f7fb07264718331db387d83",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "chromium-7151_rev1"
     },
     {
