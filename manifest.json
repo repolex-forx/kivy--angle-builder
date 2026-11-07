@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "kivy",
+  "repo": "angle-builder",
+  "versions": [
+    {
+      "commit": "2e0cffee9de5b1f19f7fb07264718331db387d83",
+      "parsed_at": "2026-11-07T12:22:15.374938+00:00",
+      "tag": "chromium-7151_rev1",
+      "filetree": "filetree/2e0cffee9de5b1f19f7fb07264718331db387d83.nq.gz",
+      "blobs": [
+        "blob/4635c77a13814d39e3732f5ae50733068d57822b.nq.gz",
+        "blob/46d8c96e6ebd2bd9f0c8baac80d54482a90d1618.nq.gz",
+        "blob/29e3ea1728a2502a55c4aa71dbb40ee6111d36ef.nq.gz",
+        "blob/1c0ea63e1b515f9b48e29da4d50af5812eb96afd.nq.gz",
+        "blob/fd67fc4c09f139367f9c54744faf4a1772777be7.nq.gz",
+        "blob/7303e4b1d03925778bfdabec63acef7bde1123b3.nq.gz",
+        "blob/2a6b6176297ce5cf6079c761a9145ebe30a72ca0.nq.gz",
+        "blob/937a83fc6d281ff93cbd18d4316fc6d10a8c421d.nq.gz",
+        "blob/06b553e785df9ab24054fed423dcaa4888ac3c70.nq.gz",
+        "blob/522e9016fab3b955e1e4dd5b76c3a211f955c962.nq.gz",
+        "blob/b03de1ab4fde14808780a729bc18e454f46f7cd7.nq.gz",
+        "blob/4420b19c601d02fd1c7cfacf04936cecfd326339.nq.gz",
+        "blob/88e22556fd0722b3dd282d13d86929627b6685ca.nq.gz",
+        "blob/e9e1e9b790eeb90a4ab90a59c96fbb667b9a0cce.nq.gz",
+        "blob/da59f2278bc1b4d35b41c4b8de4f0ebd5e14c2e2.nq.gz",
+        "blob/cf40bdc094f0e0065a96be61e11c0755b38ba150.nq.gz",
+        "blob/7c7f513b10dc91357dd3bdf76fb3f9f28c8941d6.nq.gz",
+        "blob/ec51ec6a0e5393a80855a5deae6e4e1312451a54.nq.gz",
+        "blob/919e91ee46d7c42cd0a67cbf8cdc9f6e28a056df.nq.gz",
+        "blob/776063815ca3e7a8a2d9382673a16478700aedaf.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
